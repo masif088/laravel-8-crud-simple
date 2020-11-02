@@ -51,6 +51,7 @@ class Main extends Component
                     ])
                 ];
                 break;
+            case'blog':
 
             default:
                 # code...
